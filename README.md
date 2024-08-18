@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Full stack and Embeded system
 - 💞️ I’m looking to collaborate on web design project
 - 📫 How to reach me faresahmednaabih@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 FaresAhmed50/FaresAhmed50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
